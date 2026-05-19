@@ -30,17 +30,19 @@ This repo will contain:
 ---
 
 ## 📂 Repository Structure
+```text
 100-days-of-python/
 ├── day_01_hello_world/
-│ ├── main.py
-│ └── notes.md
+│   ├── main.py
+│   └── notes.md
 ├── day_02_variables/
-│ ├── main.py
-│ └── notes.md
-...
+│   ├── main.py
+│   └── notes.md
+├── ...
 ├── day_100_celebration/
-│ └── README.md
+│   └── README.md
 └── README.md
+```
 
 Each day’s folder contains:
 - **`main.py`** – the code I wrote that day
