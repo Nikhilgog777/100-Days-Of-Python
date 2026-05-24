@@ -1,7 +1,7 @@
 # Problem : Work with strings: slice your name, reverse it, count vowels, and convert to uppercase/lowercase.
 
 ## Solution :  
-- In main.pu file
+- In main.py file
 
  ## Notes : 
  - I learned a lot about strings in this challenge
