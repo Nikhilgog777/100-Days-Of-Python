@@ -34,10 +34,10 @@ This repo will contain:
 100-days-of-python/
 ├── day_01_hello_world/
 │   ├── main.py
-│   └── notes.md
+│   └── README.md
 ├── day_02_variables/
 │   ├── main.py
-│   └── notes.md
+│   └── README.md
 ├── ...
 ├── day_100_celebration/
 │   └── README.md
