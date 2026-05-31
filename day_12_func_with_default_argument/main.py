@@ -3,6 +3,7 @@
 def greet_user(name = "Guest"):  # function definition with Guest as default argument
     print(f"Hello {name}")
 
-name = input("Enter your name : ")
+greet_user() # Prints the default "Guest"
 
-greet_user(name)  # Function call
+name = input("Enter your name : ")
+greet_user(name)  # Prints the variable name
