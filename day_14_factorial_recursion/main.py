@@ -12,5 +12,5 @@ def factorial(n):
     else :
         return n * factorial(n-1)
     
-num = factorial(-5)
-print(num)
+num = int(input("Enter the number : "))
+print(factorial(num))
