@@ -47,6 +47,7 @@ This repo will contain:
 Each day’s folder contains:
 - **`main.py`** – the code I wrote that day
 - **`notes.md`** – key takeaways, problems faced, and solutions
+- Other files such as **`.txt`**, **`.cxv`**, etc. required in the problem
 
 ---
 
